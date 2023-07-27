@@ -1,7 +1,7 @@
 {
   "schema_version": "v1",
   "name_for_model": "Nextjs_Docs_Retrieval",
-  "name_for_human": "Next.js Docs App Router Retrieval Plugin",
+  "name_for_human": "Next.js Docs Retrieval Plugin",
   "description_for_model": "Plugin for searching through Next.js latest documents to find answers to questions related to the new App Router Feature. Use it whenever a user asks for something related to Next.js.",
   "description_for_human": "Find information about the Next.js App Router Documentation.",
   "auth": {
